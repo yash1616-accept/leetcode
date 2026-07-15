@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yash1616-accept/leetcode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash1616-accept/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash1616-accept/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yash1616-accept/leetcode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yash1616-accept/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
