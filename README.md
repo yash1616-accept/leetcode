@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash1616-accept/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/yash1616-accept/leetcode/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/yash1616-accept/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash1616-accept/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash1616-accept/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/yash1616-accept/leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/yash1616-accept/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash1616-accept/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yash1616-accept/leetcode/tree/master/0128-longest-consecutive-sequence) |
