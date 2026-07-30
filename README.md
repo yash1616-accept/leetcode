@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yash1616-accept/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/yash1616-accept/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1616-accept/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/yash1616-accept/leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash1616-accept/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/yash1616-accept/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
