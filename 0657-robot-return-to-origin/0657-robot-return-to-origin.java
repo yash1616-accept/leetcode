@@ -8,6 +8,6 @@ class Solution {
             if(ch=='L')x--;
             if(ch=='R')x++;
         }
-            return x==0 &&y==0;
+            return x==0 && y==0;
     }
 }
