@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yash1616-accept/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash1616-accept/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0657-robot-return-to-origin](https://github.com/yash1616-accept/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/yash1616-accept/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yash1616-accept/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yash1616-accept/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yash1616-accept/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash1616-accept/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/yash1616-accept/leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
