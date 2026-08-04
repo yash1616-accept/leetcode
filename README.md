@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yash1616-accept/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yash1616-accept/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash1616-accept/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0925-long-pressed-name](https://github.com/yash1616-accept/leetcode/tree/master/0925-long-pressed-name) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/yash1616-accept/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yash1616-accept/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/yash1616-accept/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0925-long-pressed-name](https://github.com/yash1616-accept/leetcode/tree/master/0925-long-pressed-name) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/yash1616-accept/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yash1616-accept/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
