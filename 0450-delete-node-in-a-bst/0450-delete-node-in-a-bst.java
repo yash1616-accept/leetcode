@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public TreeNode findInorderSucessor(TreeNode root){
+    public TreeNode findInordersucessor(TreeNode root){
         while(root.left!=null){
             root=root.left;
         }
@@ -22,29 +22,29 @@ class Solution {
     }
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root==null)return null;
-      if(root.val>key){
-        root.left=deleteNode(root.left,key);
-      }else if(root.val<key){
-        root.right= deleteNode(root.right,key);
-      }else{
-        //case 1-lead node 
-        if(root.left==null&&root.right==null){
-            return null;
-        }
-        //case 2- one child
-        if(root.left==null){
-            return root.right;
-        }
-        if(root.right==null){
-            return root.left;
-        }
+        if(root.val<key){
+            root.right=deleteNode(root.right,key);
+        }else if(root.val>key){
+            root.left= deleteNode(root.left,key);
+        }else{
+            //case 1- leaf node 
+            if(root.left==null&&root.right==null){
+                return null;
+            }
 
-        //case 3 - two child
-        TreeNode IS = findInorderSucessor(root.right);
-        root.val=IS.val;
-        root.right= deleteNode(root.right,IS.val);
-      }
-      return root;
+            //case 2 -if 1 child 
+            if(root.left==null){
+                return root.right;
+            }
+            if(root.right==null){
+                return root.left;
+            }
+            //case 3 - if have both child
+            TreeNode IS = findInordersucessor(root.right);
+            root.val = IS.val;
+            root.right= deleteNode(root.right,IS.val);
 
+        }
+        return root;
     }
 }
