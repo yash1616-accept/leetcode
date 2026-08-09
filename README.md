@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/yash1616-accept/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/yash1616-accept/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash1616-accept/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/yash1616-accept/leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/yash1616-accept/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0925-long-pressed-name](https://github.com/yash1616-accept/leetcode/tree/master/0925-long-pressed-name) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yash1616-accept/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash1616-accept/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yash1616-accept/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/yash1616-accept/leetcode/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yash1616-accept/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/yash1616-accept/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
