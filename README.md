@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yash1616-accept/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yash1616-accept/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yash1616-accept/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/yash1616-accept/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yash1616-accept/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yash1616-accept/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1616-accept/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash1616-accept/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yash1616-accept/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3731-find-missing-elements](https://github.com/yash1616-accept/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
