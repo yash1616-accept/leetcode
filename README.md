@@ -294,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash1616-accept/leetcode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1890-the-latest-login-in-2020](https://github.com/yash1616-accept/leetcode/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
