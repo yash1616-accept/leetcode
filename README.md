@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yash1616-accept/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash1616-accept/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash1616-accept/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/yash1616-accept/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yash1616-accept/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash1616-accept/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/yash1616-accept/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/yash1616-accept/leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yash1616-accept/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
