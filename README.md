@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/yash1616-accept/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yash1616-accept/leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yash1616-accept/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash1616-accept/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Union-Find
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
