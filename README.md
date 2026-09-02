@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yash1616-accept/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/yash1616-accept/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/yash1616-accept/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yash1616-accept/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash1616-accept/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yash1616-accept/leetcode/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/yash1616-accept/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yash1616-accept/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yash1616-accept/leetcode/tree/master/0202-happy-number) |
