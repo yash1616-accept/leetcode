@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yash1616-accept/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash1616-accept/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/yash1616-accept/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/yash1616-accept/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/yash1616-accept/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/yash1616-accept/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash1616-accept/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yash1616-accept/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yash1616-accept/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/yash1616-accept/leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/yash1616-accept/leetcode/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yash1616-accept/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/yash1616-accept/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/yash1616-accept/leetcode/tree/master/0383-ransom-note) |
