@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yash1616-accept/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3731-find-missing-elements](https://github.com/yash1616-accept/leetcode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/yash1616-accept/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yash1616-accept/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3904-smallest-stable-index-ii](https://github.com/yash1616-accept/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
