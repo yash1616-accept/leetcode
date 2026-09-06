@@ -16,7 +16,7 @@ class Solution {
     public int numDistinct(String s, String t) {
         int n = s.length();
         int m = t.length();
-        int dp[][] = new int[n + 1][m + 1];
+        int dp[][] = new int[n][m];
         for (int[] row : dp) {
             Arrays.fill(row, -1);
 
