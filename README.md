@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/yash1616-accept/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0925-long-pressed-name](https://github.com/yash1616-accept/leetcode/tree/master/0925-long-pressed-name) |
+| [0940-distinct-subsequences-ii](https://github.com/yash1616-accept/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/yash1616-accept/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1616-accept/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yash1616-accept/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/yash1616-accept/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/yash1616-accept/leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/yash1616-accept/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Union-Find
 |  |
 | ------- |
