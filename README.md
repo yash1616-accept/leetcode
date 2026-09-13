@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/yash1616-accept/leetcode/tree/master/0835-image-overlap) |
 | [1200-minimum-absolute-difference](https://github.com/yash1616-accept/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yash1616-accept/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/yash1616-accept/leetcode/tree/master/0835-image-overlap) |
 ## Memoization
 |  |
 | ------- |
