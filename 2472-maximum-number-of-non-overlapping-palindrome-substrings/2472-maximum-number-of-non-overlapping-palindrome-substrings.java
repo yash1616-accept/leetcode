@@ -29,12 +29,24 @@ class Solution {
         int n =s.length();//bottom up approach 
         if(k==1)return n;
          int [][] dp= new int [n+1][n+1];
+         boolean [][] palindrome = new boolean[n][n];
+         for(int i =n-1;i>=0;i--){
+            for(int j=i;j<n;j++){
+                if(s.charAt(i)==s.charAt(j)){
+                    if(j-i<=2){
+                        palindrome[i][j]=true;
+                    }else{
+                        palindrome[i][j]=palindrome[i+1][j-1];
+                    }
+                }
+            }
+         }
         // for(int []row:dp){
         //     Arrays.fill(row,-1);
         // }
         for(int i=n-1;i>=0;i--){
             for(int j =n-1;j>=0;j--){
-                if(isPalindrome(s,i,j)){
+                if(palindrome[i][j]){
                     int take= 1+(j+k<=n ? dp[j+1][j+k] : 0);//j+k can go out of bound 
                     int grow= dp[i][j+1];
                     int slide = dp[i+1][j+1];
