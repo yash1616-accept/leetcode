@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash1616-accept/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash1616-accept/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash1616-accept/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yash1616-accept/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1616-accept/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/yash1616-accept/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/yash1616-accept/leetcode/tree/master/0835-image-overlap) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yash1616-accept/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash1616-accept/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash1616-accept/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yash1616-accept/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash1616-accept/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yash1616-accept/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
