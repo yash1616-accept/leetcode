@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yash1616-accept/leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yash1616-accept/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/yash1616-accept/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/yash1616-accept/leetcode/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/yash1616-accept/leetcode/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/yash1616-accept/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1616-accept/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -411,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yash1616-accept/leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yash1616-accept/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
