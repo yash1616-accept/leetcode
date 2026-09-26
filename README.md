@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash1616-accept/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/yash1616-accept/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yash1616-accept/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash1616-accept/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yash1616-accept/leetcode/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash1616-accept/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yash1616-accept/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yash1616-accept/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yash1616-accept/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/yash1616-accept/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/yash1616-accept/leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/yash1616-accept/leetcode/tree/master/0205-isomorphic-strings) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash1616-accept/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/yash1616-accept/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yash1616-accept/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yash1616-accept/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yash1616-accept/leetcode/tree/master/0169-majority-element) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash1616-accept/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash1616-accept/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/yash1616-accept/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yash1616-accept/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yash1616-accept/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yash1616-accept/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yash1616-accept/leetcode/tree/master/0075-sort-colors) |
